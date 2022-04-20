@@ -1,6 +1,6 @@
 ### Well hello stranger ... :smirk:
 
-I guess some presentations are in order :point_down:
+I guess some introductions are in order :point_down:
 
 - :ringed_planet: My name is **Virginia**
 - 💬 I'm fluent in French, Polish, English and internet culture
