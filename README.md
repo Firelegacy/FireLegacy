@@ -1,16 +1,14 @@
-### Hi there 👋
+### Well hello stranger ... :smirk:
 
-<!--
-**Firelegacy/FireLegacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I guess some presentations are in order :point_down:
 
-Here are some ideas to get you started:
+- :ringed_planet: My name is **Virginia**
+- 💬 I'm fluent in French, Polish, English and internet culture
+- :fire: *About me round-up:* owns +150 exotic plants, dark humour enthusiast, cities skylines engineer and passionate about cooking
+- 🔭 *Project I'm on:* PlantHuntr, an app around plants sales, trades and auctions (React, React Native & NestJs)
+- :boom: *Favourite technologies:* React & ChakraUI
+- 🌱 Discovering Flutter 
+> "ok, alright, ok, that's good, **IT'S ENOUGH WIDGETS!**"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm looking to meet fellow programmers in Europe → Shoot me a tweet! 📫
